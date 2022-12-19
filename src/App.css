@@ -1,0 +1,14 @@
+.Add {
+  text-align: center;
+  background-color: bisque;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+img, svg {
+  vertical-align: middle;
+  height: 200px;
+}
